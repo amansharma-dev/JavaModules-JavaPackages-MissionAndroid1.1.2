@@ -1,0 +1,3 @@
+rootProject.name='JavaModules-JavaPackages-MissionAndroid1.1.2'
+include ':app'
+include ':LearnJava'
